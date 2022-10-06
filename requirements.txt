@@ -2,3 +2,5 @@ pandas
 numpy
 matplotlib
 seaborn
+flake8
+pytest
